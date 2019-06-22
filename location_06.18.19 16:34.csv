@@ -1,2 +1,2 @@
 Client_device_name,Client_last_check_in,GeoLocation_longitude,GeoLocation_latitude,GeoLocation_horizontal_accuracy,GeoLocation_altitude,GeoLocation_altitude_accuracy,GeoLocation_location_date,GeoLocation_speed,GeoLocation_course
-Northstar,2019-06-18T23:21:32.855507Z,-119.462875976213,49.8142091732864,65.0,478.360290527344,10.0,2019-06-18T23:19:28Z,-1.0,-1.0
+Northstar,2019-06-18T23:21:32.855507Z,<redacted>,<redacted>,<redacted>,<redacted>,10.0,2019-06-18T23:19:28Z,-1.0,-1.0
